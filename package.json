@@ -1,0 +1,15 @@
+{
+  "name": "puffer-pendle-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ngfam",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "graphql-request": "^6.1.0"
+  }
+}
