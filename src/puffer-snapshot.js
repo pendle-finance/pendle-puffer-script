@@ -36,6 +36,7 @@ async function fetchUserBalanceSnapshot(blockNumber) {
     ),
   ]);
 
+  applySyHoldersShares(result, allBalances);
   applyYtHolderShares(
     result,
     allBalances,
