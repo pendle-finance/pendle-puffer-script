@@ -55,16 +55,16 @@ const YT_INDEX_QUERY = {
 };
 
 const LIQUID_LOCKERS = [
-  // {
-  //   // penpie
-  //   address: "0x6e799758cee75dae3d84e09d40dc416ecf713652",
-  //   receiptToken: "0x2da4401616dc5668100decfaf579229233b4ec1c",
-  // },
-  // {
-  //   // equilibira
-  //   address: "0x64627901dadb46ed7f275fd4fc87d086cff1e6e3",
-  //   receiptToken: "0x17ea39035ad2cb5d8e2e005349ff23bb52d1c8b7",
-  // },
+  {
+    // penpie
+    address: "0x6e799758cee75dae3d84e09d40dc416ecf713652",
+    receiptToken: "0xc537f33af05a2060b733361b4b76471177f6ee27",
+  },
+  {
+    // equilibira
+    address: "0x64627901dadb46ed7f275fd4fc87d086cff1e6e3",
+    receiptToken: "0xce15338f91a022497f614a37a555c7b6eac49ae3",
+  },
   // {
   //   // stakedao
   //   address: "0xd8fa8dc5adec503acc5e026a98f32ca5c1fa289a",
